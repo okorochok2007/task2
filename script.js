@@ -1,5 +1,5 @@
 // Ваш API-ключ із OpenWeatherMap
-const API_KEY = "05d52f31cc4ba0c9151e7ac0a1ae29e5";
+const API_KEY = "7fdd0dd95a3f7025fcf2f7090c7d73ed";
 // Кінцева точка API
 const API_URL = "https://api.openweathermap.org/data/2.5/weather?q=London&appid=" + API_KEY + "&units=metric";
 
